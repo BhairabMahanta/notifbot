@@ -1,2 +1,5 @@
 node_modules
 json.sqlite
+package.json
+package-lock.json
+database.sqlite
