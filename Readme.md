@@ -1,7 +1,3 @@
-Sure! Below is a detailed README file explaining the setup and configuration process for your Discord bot that uses the YouTube Data API to send notifications of new uploads to a Discord channel.
-
----
-
 # Discord YouTube Notification Bot
 
 This bot checks your YouTube channel every 15 seconds for new uploads or live streams and sends a notification to a specified Discord channel. It uses the YouTube Data API and the `discord.js` library.
